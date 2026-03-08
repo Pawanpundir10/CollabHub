@@ -1,0 +1,23 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A6A1-D79C
+
+ Directory of D:\ProjectBuddy2\collab-hub\frontend
+
+08-03-2026  03:43    <DIR>          .
+08-03-2026  03:42    <DIR>          ..
+08-03-2026  03:43                39 .env
+09-12-2025  12:58               434 components.json
+09-12-2025  12:58               791 eslint.config.js
+08-03-2026  03:43                 0 frontend_dir_output.txt
+08-03-2026  03:32               578 index.html
+08-03-2026  03:33    <DIR>          node_modules
+08-03-2026  03:33           169,293 package-lock.json
+08-03-2026  03:33             2,597 package.json
+09-12-2025  12:58                87 postcss.config.js
+22-01-2026  01:49    <DIR>          public
+22-01-2026  01:43             2,488 README.md
+08-03-2026  03:39    <DIR>          src
+09-12-2025  12:58             3,519 tailwind.config.js
+08-03-2026  03:33               340 vite.config.js
+              11 File(s)        180,166 bytes
+               5 Dir(s)  28,379,971,584 bytes free
